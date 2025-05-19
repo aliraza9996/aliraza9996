@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Raza.  
-- 💞️ I’m a Software Engineer
+- 💞️ I’m a Software Engineer since 2021
 - 👀 I’m working on Web Development
 - 📫 Reach me out at alir9996@gmail.com
 
